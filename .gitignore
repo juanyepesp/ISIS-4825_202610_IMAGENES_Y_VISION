@@ -3,3 +3,7 @@
 /Prev_Laboratorio_08
 /Prev_Laboratorio_09
 /Prev_Laboratorio_10
+
+data/
+.DS_Store
+*.keras
